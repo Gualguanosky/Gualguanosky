@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre] 👋
 
-<!--
-**Gualguanosky/Gualguanosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de Software | Entusiasta del Open Source | Creador de Cosas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧐 Sobre mí
+
+- 🔭 Actualmente estoy trabajando en **[Nombre del Proyecto]**
+- 🌱 Estoy aprendiendo **React, Python, y Cloud Computing**
+- 👯 Busco colaborar en **proyectos de código abierto**
+- 💬 pregúntame sobre **JavaScript, Desarrollo Web, o Tech**
+- 📫 Cómo contactarme: **[tu@email.com]**
+
+---
+
+### 🛠️ Lenguajes y Herramientas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,html,css,git,docker,vscode&perline=10" />
+  </a>
+</p>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 🔗 Conecta conmigo
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/social-linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/social-twitter.svg" />][twitter]
+
+[linkedin]: https://linkedin.com/in/tu-perfil
+[twitter]: https://twitter.com/tu-usuario
