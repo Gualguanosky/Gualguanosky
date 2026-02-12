@@ -2,9 +2,9 @@
 
 **Remote Full Stack Developer | Python | React | JavaScript | REST APIs | Machine Learning (Basics)**
 
-🌍 LATAM | 💻 Open to Remote | 📫 Email: tuemail@email.com  
-🔗 LinkedIn: https://www.linkedin.com/in/tu-linkedin  
-🔗 Portfolio: [https://tusitio.com (opcional)](https://gualguanosky.github.io/)
+🌍 LATAM | 💻 Open to Remote | 📫 Email: Gualguan93@hotmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/alejandro-casta%C3%B1eda-gualguan-71316826b/
+🔗 Portfolio: https://gualguanosky.github.io/
 
 ---
 
