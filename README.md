@@ -4,7 +4,7 @@
 
 🌍 LATAM | 💻 Open to Remote | 📫 Email: tuemail@email.com  
 🔗 LinkedIn: https://www.linkedin.com/in/tu-linkedin  
-🔗 Portfolio: https://tusitio.com (opcional)
+🔗 Portfolio: [https://tusitio.com (opcional)](https://gualguanosky.github.io/)
 
 ---
 
