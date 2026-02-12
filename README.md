@@ -1,52 +1,59 @@
-# Hola, soy Alejandro Castañeda G 👋
+# 👋 Hi, I’m Alejandro
 
-**Ingeniero de Sistemas en Formación | Desarrollador Full Stack | Especialista en Infraestructura TI**
+**Remote Full Stack Developer | Python | React | JavaScript | REST APIs | Machine Learning (Basics)**
 
----
-
-### 🧐 Sobre mí
-
-👋 ¡Hola! Soy estudiante de Ingeniería de Sistemas (8.º semestre) en la **Pontificia Universidad Javeriana Cali** y Tecnólogo en Desarrollo de Sistemas de Información (SENA).
-
-Tengo experiencia sólida en **soporte técnico, administración de infraestructura y desarrollo de software**. Me apasiona optimizar procesos mediante la tecnología y liderar equipos multidisciplinarios.
-
-- 🔭 Actualmente estoy trabajando en **proyectos de automatización y desarrollo web**
-- 🌱 Estoy profundizando en **React, Laravel y Arquitectura Cloud**
-- 👯 Busco colaborar en **proyectos de desarrollo backend y administración de sistemas**
-- 💬 Pregúntame sobre **Python, .NET, Bases de Datos o Soporte TI**
-- 📫 Cómo contactarme: **gualguan93@hotmail.com** | 📍 **Cali, Colombia**
+🌍 LATAM | 💻 Open to Remote | 📫 Email: tuemail@email.com  
+🔗 LinkedIn: https://www.linkedin.com/in/tu-linkedin  
+🔗 Portfolio: https://tusitio.com (opcional)
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,cpp,c,js,php,laravel,react,mysql,html,css,git,vscode,windows&perline=10" />
-  </a>
-</p>
-
-*   **Lenguajes:** C, C++, JavaScript, PHP, Python, .NET
-*   **Frameworks:** Laravel, React
-*   **Data & BI:** MySQL, Power BI, Excel Avanzado
-*   **Idiomas:** Español (Nativo), Inglés (Avanzado), Francés (Medio)
+## 🚀 About Me
+Full Stack Developer skilled in Python, React, and JavaScript. I build web applications and REST API integrations, automate workflows with n8n, and connect external services (e.g., WhatsApp, Google tools).  
+Currently learning .NET and strengthening my Machine Learning foundations. Comfortable working remotely with async communication and distributed teams.
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+## 🧰 Tech Stack
+**Frontend:** React, JavaScript, HTML, CSS  
+**Backend:** Python (Flask/Django – si aplica)  
+**Databases:** PostgreSQL / MySQL / MongoDB (los que uses)  
+**Tools:** Git, GitHub, n8n, Docker (si aplica), AWS (si aplica)  
+**ML (Basics):** pandas, scikit-learn (si aplica)
 
-> *Nota: Reemplaza `TU_USUARIO_GITHUB` en el código de abajo con tu usuario real (ej. `gualg`) para que aparezcan tus estadísticas.*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
+> Badges (opcional y visual):
+![Python](https://skillicons.dev/icons?i=python)
+![React](https://skillicons.dev/icons?i=react)
+![JS](https://skillicons.dev/icons?i=js)
+![Git](https://skillicons.dev/icons?i=git)
 
 ---
 
-### 🔗 Conecta conmigo
+## 📌 Featured Projects
+### 🔹 Project 1 — *Nombre del proyecto*
+**What it does:** breve descripción del problema que resuelve.  
+**Tech:** Python, React, REST API  
+🔗 Demo: link | 📂 Code: link
 
-<!-- Puedes agregar aquí tu link de LinkedIn real -->
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/social-linkedin.svg" />](https://linkedin.com/in/tu-perfil-real)
-<!-- Si tienes twitter u otra red -->
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/social-twitter.svg" />](https://twitter.com/tu-usuario)
+### 🔹 Project 2 — *Nombre del proyecto*
+**What it does:** breve descripción.  
+**Tech:** Python, JavaScript, n8n  
+🔗 Demo: link | 📂 Code: link
+
+### 🔹 Project 3 — *Nombre del proyecto*
+**What it does:** breve descripción.  
+**Tech:** React, APIs  
+🔗 Demo: link | 📂 Code: link
+
+---
+
+## 📚 Currently Learning
+- .NET  
+- Machine Learning (foundations)
+
+---
+
+## 🤝 Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/tu-linkedin  
+- Email: tuemail@email.com
+
